@@ -24,9 +24,4 @@ homebrew
 
 AdoptOpenJdk 8 11 14 with jenv version controller
 
-maven with mvnvm version manager
-
-Node with nvm version manager
-
 git
-
