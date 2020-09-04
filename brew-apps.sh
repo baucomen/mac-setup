@@ -40,3 +40,9 @@ brew cask install authy
 
 # install surfshark
 brew cask install surfshark
+
+# install telegram
+brew cask install telegram
+
+# install whatsapp
+brew cask install whatsapp
