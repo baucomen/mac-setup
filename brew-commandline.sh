@@ -45,6 +45,9 @@ brew install woff2
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install nmap
 
+# Install fzf fuzzy find tool
+brew install fzf
+
 # Install other useful binaries.
 brew install git
 brew install git-lfs
