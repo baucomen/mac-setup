@@ -68,3 +68,10 @@ chmod +x brew-jdk.sh
 chmod +x brew-apps.sh
 ./brew-apps.sh
 ```
+
+#### aliases
+Put aliases preferably in `${ZSH_CUSTOM:-~/.oh-my-zsh/custom}`
+```
+in ~/.zshrc
+source ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/aliases
+```
