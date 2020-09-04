@@ -53,3 +53,12 @@ in ~/.zshrc.
 The cause of the warning is not the issue here; I have two admin users on the same Macbook who both need to use homebrew. When files in /usr/local have group read/write privileges rather than single user privileges, the COMPFIX process flags them as insecure.
 
 Other solutions suggest adding ZSH_DISABLE_COMPFIX=true to the top of my .zshrc file
+
+#### install zsh-autosuggestions plugin
+```bash
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+```
+```
+in ~/.zshrc
+plugins=(zsh-autosuggestions)
+```
