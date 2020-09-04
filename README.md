@@ -60,5 +60,11 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 ```
 ```
 in ~/.zshrc
-plugins=(zsh-autosuggestions)
+plugins=(... zsh-autosuggestions)
+```
+
+#### activate docker plugin
+```
+in ~/.zshrc
+plugins=(... docker)
 ```
