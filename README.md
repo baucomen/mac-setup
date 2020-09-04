@@ -17,24 +17,6 @@ brew install zsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-#### install brew-commandline.sh 
-```bash
-chmod +x brew-commandline.sh 
-./brew-commandline.sh 
-```
-
-#### install brew-jdk.sh 
-```bash
-chmod +x brew-jdk.sh
-./brew-jdk.sh
-```
-
-#### install brew-apps.sh
-```bash
-chmod +x brew-apps.sh
-./brew-apps.sh
-```
-
 #### install powerline10k theme for oh_my_zsh
 ```bash
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
@@ -67,4 +49,22 @@ plugins=(... zsh-autosuggestions)
 ```
 in ~/.zshrc
 plugins=(... docker)
+```
+
+#### install brew-commandline.sh 
+```bash
+chmod +x brew-commandline.sh 
+./brew-commandline.sh 
+```
+
+#### install brew-jdk.sh 
+```bash
+chmod +x brew-jdk.sh
+./brew-jdk.sh
+```
+
+#### install brew-apps.sh
+```bash
+chmod +x brew-apps.sh
+./brew-apps.sh
 ```
