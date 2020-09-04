@@ -40,3 +40,7 @@ brew cask install authy
 
 # install surfshark
 brew cask install surfshark
+
+
+# install transmission torrent client
+brew cask install transmission
