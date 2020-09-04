@@ -2,15 +2,21 @@
 
 MacOs clean setup
 
-## Tools
-
 zsh
+
+homebrew
+
+oh_my_zsh
+
+git
 
 iterm2
 
-sublimetext3 with ayu dark theme
+AdoptOpenJdk 8 11 14 with jenv version controller
 
-vscode with ayu dark theme
+sublimetext3 + github dark theme
+
+vscode + github dark theme
 
 docker with Docker desktop for MacOS
 
@@ -18,10 +24,16 @@ Macs Fan Control free edition
 
 macdown markdown editor
 
-## More Tools
+Firefox
 
-homebrew
+Authy
 
-AdoptOpenJdk 8 11 14 with jenv version controller
+LastPass
 
-git
+Vpn Provider(SurfShark)
+
+Android File Transfer
+
+rectangle (windows snapper)
+
+Office Tools
