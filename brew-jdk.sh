@@ -8,9 +8,6 @@ brew update
 # Upgrade any already-installed formulae.
 brew upgrade
 
-# install iTerm2 Terminal Emulator
-brew cask install iterm2
-
 # Tap AdoptOpenJDK
 brew tap adoptopenjdk/openjdk
 
