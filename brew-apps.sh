@@ -9,40 +9,40 @@ brew update
 brew upgrade
 
 # install iTerm2 Terminal Emulator
-brew cask install iterm2
+brew install --cask iterm2
 
 # install sublime-text-3
-brew cask install sublime-text
+brew install --cask sublime-text
 
 # install vscode
-brew cask install visual-studio-code
+brew install --cask visual-studio-code
 
 # install firefox
-brew cask install firefox
+brew install --cask firefox
 
 # install Docker
-brew cask install docker
+brew install --cask docker
 
 # install rectangle
-brew cask install rectangle
+brew install --cask rectangle
 
 # install android-file-transfer
-brew cask install android-file-transfer
+brew install --cask android-file-transfer
 
 # install macdown
-brew cask install macdown
+brew install --cask macdown
 
 # install macs-fan-control
-brew cask install macs-fan-control
+brew install --cask macs-fan-control
 
 # install authy
-brew cask install authy
+brew install --cask authy
 
 # install surfshark
-brew cask install surfshark
+brew install --cask surfshark
 
 # install transmission torrent client
-brew cask install transmission
+brew install --cask transmission
 
 # install appcleaner
-brew cask install appcleaner
+brew install --cask appcleaner

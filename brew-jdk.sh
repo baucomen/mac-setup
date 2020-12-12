@@ -12,9 +12,9 @@ brew upgrade
 brew tap adoptopenjdk/openjdk
 
 # install 1.8, 11, 14
-brew cask install adoptopenjdk8
-brew cask install adoptopenjdk11
-brew cask install adoptopenjdk14
+brew install --cask adoptopenjdk8
+brew install --cask adoptopenjdk11
+brew install --cask adoptopenjdk14
 
 # install jenv
 brew install jenv
