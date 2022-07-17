@@ -33,7 +33,7 @@ brew install --cask android-file-transfer
 brew install --cask macdown
 
 # install macs-fan-control
-brew install --cask macs-fan-control
+# brew install --cask macs-fan-control
 
 # install authy
 brew install --cask authy
